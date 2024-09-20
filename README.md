@@ -36,6 +36,7 @@ Digunakan untuk menentukan aturan yang memperolehkan atau membatasi nilai/data a
 
  # Relationship
  Relasi yaitu hubungan antara suatu tabel dengan tabel lainnya Untuk menghubungkannya menggunakan Primary Key dan Foreign Key.
+ 
  ![image](https://github.com/user-attachments/assets/6cc5e2f9-925f-467f-81cc-009d217f3a23)
 
  
